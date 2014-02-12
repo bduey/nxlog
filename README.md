@@ -1,0 +1,4 @@
+nxlog
+=====
+
+Configurations for nxlog
